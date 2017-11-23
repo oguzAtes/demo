@@ -7,6 +7,7 @@
 
 # dependencies
 /Angular2/firstApp/node_modules
+/Angular2/angularIO/node_modules
 
 # IDEs and editors
 /.idea
